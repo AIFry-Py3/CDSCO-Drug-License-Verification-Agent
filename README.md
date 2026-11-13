@@ -151,4 +151,4 @@ Licence data: Central Drugs Standard Control Organisation (CDSCO), [Data Bank](h
 
 ## License
 
-Add a licence before publishing (for example MIT).
+MIT License.
