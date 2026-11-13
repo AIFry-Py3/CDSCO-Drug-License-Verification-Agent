@@ -1,0 +1,13 @@
+pandas
+python-docx
+rapidfuzz
+streamlit
+python-dotenv
+google-genai
+langgraph
+chromadb
+pytest
+tabulate
+opencv-python-headless
+numpy
+easyocr
